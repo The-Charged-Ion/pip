@@ -1,0 +1,15 @@
+What is Pip = pip is a python command used for installing any module/library from the Internet
+
+Eg libraries:
+    pyttsx3 - TTT
+    requests = requesting to get a url or any other thing
+    opencv(pip install cv2) - Broad Application for many things including using a camera or facial recognition
+
+
+Website - www.pypi.org 
+
+
+
+
+
+
